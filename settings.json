@@ -1,5 +1,5 @@
 {
-  "name": "Pisolo27",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "Pisolo27",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "MartinBrutto.aternos.me",
     "port": 30481,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 10.800,
       "messages": [
-        "._.",
-        ":]",
-        "u_u"
+        "Iscrivetevi a IBros!",
+        "Mi mettete la Night Vision?",
+        "Martin+Cugino"
       ]
     },
     "chat-log": true,
