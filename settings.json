@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Pisolo27",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "MartinBrutto.aternos.me",
+    "port": 30481,
     "version": "",
     "try-creative": false
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 10800,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Sono il guardiano del server!",
+        "Iscrivetevi al canale di IBros!",
+        "Mi piace giocare su questo server!"
       ]
     },
     "chat-log": true,
@@ -46,7 +46,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 51
     },
     "look-around": {
       "enabled": true,
